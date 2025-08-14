@@ -28,7 +28,7 @@
 ## Additional Resources
 
 * [Bridging Tokens from Other Blockchains to Solana](additional-resources/bridging-tokens-from-other-blockchains-to-solana.md)
-* [Support](additional-resources/support.md)
 * [Frequently Asked Questions (FAQs)](additional-resources/frequently-asked-questions-faqs.md)
 * [Pajcash API](additional-resources/pajcash-api.md)
-* [Community](additional-resources/community.md)
+* [Community Links](additional-resources/community-links.md)
+* [Pajcash Community Guidelines](additional-resources/pajcash-community-guidelines.md)

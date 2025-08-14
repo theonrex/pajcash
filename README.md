@@ -4,7 +4,7 @@ description: The best way to onramp and offramp crypto on Solana
 
 # What is PajCash
 
-**Video**
+{% embed url="https://youtu.be/ggUqDe96nPI" %}
 
 ### What is Pajcash:
 

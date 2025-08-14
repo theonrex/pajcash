@@ -1,14 +1,10 @@
 # Security Practices
 
-
-
-#### Security Practices for Pajcash
-
 Security is paramount in the world of decentralized finance. This guide outlines the core security practices on Pajcash to help you protect your assets and stay safe from scams.
 
 ***
 
-**Understanding Non-Custodial Security**
+### **Understanding Non-Custodial Security**
 
 Pajcash operates on a non-custodial model. This is a fundamental security feature that means we do not have access to or control over your digital assets. Your cryptocurrency is stored in your own decentralized wallet (like Solflare), and you hold the private keys (your secret recovery phrase).
 
