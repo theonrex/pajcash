@@ -2,7 +2,7 @@
 
 ### Pajcash Onboarding Guide
 
-Welcome to Pajcash! This guide will walk you through the essential steps to set up your account and get started with seamless on-ramp and off-ramp transactions.
+This guide will walk you through the essential steps to set up your account and get started with seamless on-ramp and off-ramp transactions.
 
 ***
 
@@ -35,8 +35,8 @@ To enable direct on-ramp and off-ramp transactions, you must link your bank acco
 
 <figure><img src="../.gitbook/assets/Input bank name.png" alt=""><figcaption></figcaption></figure>
 
-* Enter your correct bank Account Number.
-* Click the **Link account** button.
+* The next step is to enter your correct Bank Account Number.
+* Click the **Link Account** button.
 
 <figure><img src="../.gitbook/assets/Link account.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,11 +2,11 @@
 description: Converting Crypto to Your Bank Account
 ---
 
-# How to Off-Ramp
+# How to Off-Ramp: Converting Crypto to Naira
 
-**Off-ramping** is the process of converting your cryptocurrency back into fiat currency (like USD, EUR, or NGN) and having it sent to your linked bank account.&#x20;
+**Off-ramping** is the process of converting your cryptocurrency back into fiat currency (NGN) and having it sent to your linked bank account.&#x20;
 
-**Here’s a simple, step-by-step guide to off-ramping with Pajcash.**
+#### **Here’s a simple, step-by-step guide to off-ramping with Pajcash.**
 
 {% hint style="warning" %}
 **Important Pre-requisites:**
@@ -32,7 +32,7 @@ Copy this address to your clipboard by clicking the copy icon beside the address
 
 ### **Step 3: Send Funds from Your Wallet**
 
-Open the decentralized wallet that you linked to your Pajcash account (e.g., Solflare, Phantom).
+Open the wallet that you linked to your Pajcash account (e.g., Solflare, Phantom).
 
 1. Select the specific token you want to withdraw from your list of assets.
 2. Initiate a "Send" or "Withdraw" transaction.

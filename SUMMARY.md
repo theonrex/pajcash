@@ -4,18 +4,18 @@
 
 * [What is PajCash](README.md)
 * [Features](overview/features.md)
-* [Page](overview/page.md)
 
 ## Getting Started
 
 * [Get started with Solana:](getting-started/get-started-with-solana.md)
 * [Create an account](getting-started/create-an-account.md)
-* [How to Off-Ramp](getting-started/how-to-off-ramp.md)
-* [How to onramp:](getting-started/how-to-onramp.md)
+* [How to Off-Ramp: Converting Crypto to Naira](getting-started/how-to-off-ramp-converting-crypto-to-naira.md)
+* [How to On-Ramp: Buying Crypto with Naira](getting-started/how-to-on-ramp-buying-crypto-with-naira.md)
 
 ## Managing Your Wallets
 
 * [How to link another bank account](managing-your-wallets/how-to-link-another-bank-account.md)
+* [How to Unlink a Bank Account](managing-your-wallets/how-to-unlink-a-bank-account.md)
 * [How to link another wallet.](managing-your-wallets/how-to-link-another-wallet..md)
 * [How to Unlink a Wallet](managing-your-wallets/how-to-unlink-a-wallet.md)
 
@@ -25,10 +25,10 @@
 * [Security Practices](security-practices.md)
 * [Page 1](page-1.md)
 
-## Group 1
+## Additional Resources
 
-* [How to bridge your assets to solana](group-1/how-to-bridge-your-assets-to-solana.md)
-* [Support](group-1/support.md)
-* [FAQs](group-1/faqs.md)
-* [Pajcash API](group-1/pajcash-api.md)
-* [Community](group-1/community.md)
+* [Bridging Tokens from Other Blockchains to Solana](additional-resources/bridging-tokens-from-other-blockchains-to-solana.md)
+* [Support](additional-resources/support.md)
+* [Frequently Asked Questions (FAQs)](additional-resources/frequently-asked-questions-faqs.md)
+* [Pajcash API](additional-resources/pajcash-api.md)
+* [Community](additional-resources/community.md)
