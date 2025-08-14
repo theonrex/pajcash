@@ -23,12 +23,12 @@
 
 * [Referral Program](referral-program.md)
 * [Security Practices](security-practices.md)
-* [Page 1](page-1.md)
 
 ## Additional Resources
 
 * [Bridging Tokens from Other Blockchains to Solana](additional-resources/bridging-tokens-from-other-blockchains-to-solana.md)
 * [Frequently Asked Questions (FAQs)](additional-resources/frequently-asked-questions-faqs.md)
 * [Pajcash API](additional-resources/pajcash-api.md)
+* [Glossary](additional-resources/glossary.md)
 * [Community Links](additional-resources/community-links.md)
 * [Pajcash Community Guidelines](additional-resources/pajcash-community-guidelines.md)
