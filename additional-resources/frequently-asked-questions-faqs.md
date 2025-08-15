@@ -16,7 +16,7 @@ Linking your bank account is a necessary step that allows for seamless on-ramp a
 
 ### 4. Are there any identity verification (KYC) requirements?
 
-Yes, for security and regulatory compliance, Pajcash requires identity verification for certain transaction volumes and features. You will be prompted to complete this process when it is necessary.
+Currently, Pajcash does not require KYC verification. However, for future security enhancements, compliance with financial regulations, Pajcash plans to introduce a KYC process. We will notify all users well in advance of any changes to our policy.
 
 ### 5. What happens if I lose my wallet's private key or seed phrase?
 
